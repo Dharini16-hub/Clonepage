@@ -1,0 +1,55 @@
+body{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+h3{
+    color:rgb(237,212,212);
+}
+.head{
+    padding-top: 13px ;
+    padding-bottom: 100px;
+}
+img{
+    width:100px;
+    border-radius: 25px;
+}
+.boxes{
+    padding-top:110px; 
+}
+.boxes2{
+    padding-top:10px;
+}
+input{
+    width:250px;
+    padding:10px;
+    border-radius: 8px;
+    background-color:#384361;
+    border:1px solid grey;
+    
+}
+button{
+    width:270px;
+    padding:10px;
+    border-radius: 20px;
+    border:1px solid grey;
+    background-color: rgb(41, 41, 253);
+    
+}
+.log{
+    padding-top:15px;
+   
+}
+.end{
+    padding-bottom:250px;
+    color:rgb(253, 241, 241);
+}
+.final{
+    width:270px;
+    padding:10px ;
+    border-radius: 20px;
+    color:rgb(57, 57, 224);
+    background-color:#384361;
+    border:1px solid rgb(57, 57, 224);
+}
