@@ -1,0 +1,150 @@
+
+.bar1{
+    width:25px;
+    height:5px;
+    background-color:black;
+    border-radius:50%;
+    margin:1px;
+    margin-left:30px;
+    
+}
+.bar{
+    
+    margin-top:30px;
+    margin-left:10px;
+    
+}
+.heading{
+    font-size:20px;
+    display:flex;
+    margin-left:650px;
+}
+.head{
+    display:flex;
+    padding:10px;
+    border-radius:30px;
+}
+img{
+    margin-top:15px;
+    border-radius:70px;
+}
+button{
+    margin-top:20px;
+    margin-inline-start:500px;
+    border-radius:50px;
+    width: 150px;
+    height:50px;
+}
+.box{
+    display:flex;
+    padding-top:25px;
+}
+ul{
+    list-style-type: none;
+    display:flex;
+    gap:220px;
+    font-size:20px;
+}
+
+
+.nav1{
+    padding:15px;
+    margin-top:25px;
+    border-radius:45px;
+}
+input{
+    width:600px;
+    height:45px;
+    border-radius:50px;
+    margin-inline-start:170px ;
+    border-color : black;
+    
+    
+}
+::placeholder{
+    text-align:center;
+    
+}
+.voice{
+    margin-left:35px;
+}
+
+.cam{
+    margin-top:7px;
+    margin-inline-start:45px;
+    padding-top:7px;
+}
+.cart{
+    
+    margin-top:3px;
+    margin-inline-start:80px;
+    border-radius: 1px;
+}
+.starters{
+    margin-inline-start: 7px;
+}
+.item{
+    display:flex;
+    margin-top:35px;
+    border:1px solid black;
+    justify-content: space-around;
+    border-radius:20px;
+    margin-inline-start: 30px;
+    margin-inline-end: 30px;
+    height:450px;
+}
+.item1{
+    padding-left:85px;
+    padding-right:85px;
+    padding-top:30px;
+    padding-bottom:150px;
+    border:1px solid black;
+    border:dotted;
+    margin-left:60px;
+    margin-top:40px;
+    margin-bottom:40px;
+    border-radius:50px;
+}
+.item2{
+    padding-left:85px;
+    padding-right:85px;
+    padding-top:30px;
+    padding-bottom:150px;
+    border:1px solid black;
+    border:dotted; 
+    margin-top:40px;
+    margin-bottom:40px;
+    border-radius:50px;
+}
+.item3{
+    padding-left:85px;
+    padding-right:85px;
+    padding-top:30px;
+    padding-bottom:150px;
+    border:1px solid black;
+    border:dotted;
+    margin-left:60px;
+    margin-top:40px;
+    margin-bottom:40px;
+    border-radius:50px;
+}
+.item4{
+    padding-left:85px;
+    padding-right:85px;
+    padding-top:30px;
+    padding-bottom:150px;
+    border:1px solid black;
+    border:dotted;
+    margin-left:60px;
+    margin-top:40px;
+    margin-bottom:40px;
+    border-radius:50px;
+}
+#item1,#item2,#item3,#item4{
+    border-radius:1px;
+    font-style:italic;
+    font-size:20px;
+}
+#bt1,#bt2,#bt3,#bt4{ 
+    margin-inline-start:5px;
+}
